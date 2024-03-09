@@ -1,7 +1,7 @@
-import QuoteGenerator from "./components/QuoteGenerator";
+import NoteList from "./Redux/NoteList";
 function App() {
   return (
-    <QuoteGenerator/>
+    <NoteList/>
   );
 }
 
